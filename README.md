@@ -1,12 +1,11 @@
-Henrik P. Rhodin, Gothenburg(SWE)-based data scientist with a research background in astrophysics, employed in the Future Technologies group at AFRY.
-Enjoys working on challenging assignments with smart people in agile teams. Thrives on learning.
+Henrik P. Rhodin, Gothenburg (SWE) -based analytics architect and team lead with a research background in astrophysics, employed at Devies. Enjoys working on challenging projects with smart people in agile teams. Thrives on learning.
 
 - Father
 - Husband
-- Researcher
-- 7+ years' experience in applied statistics
+- Analytics architect
+- Physicist
+- 7+ years' experience in applied statistics and data analysis
 - Detail oriented (visual, verbal, and written contents)
-- Open source: enthusiastic about the concept, lousy at contributing
 - Pub quizzer
 - Runner
 
