@@ -1,10 +1,12 @@
-Henrik P. Rhodin, Gothenburg (SWE) -based analytics architect and team lead with a research background in astrophysics, employed at Devies. Enjoys working on challenging projects with smart people in agile teams. Thrives on learning.
+Henrik P. Rhodin, Gothenburg (SWE) -based Tech Lead and Business Responsible, Analytics.
+Ph. D. research background in astrophysics, employed at Devies Digital Core. 
+Generalist who enjoys working on challenging projects with smart people in agile teams. Thrives on learning.
 
 - Father
 - Husband
-- Analytics architect
+- Tech Lead
 - Physicist
-- 7+ years' experience in applied statistics and data analysis
+- 8+ years' experience in applied statistics and data analysis
 - Detail oriented (visual, verbal, and written contents)
 - Pub quizzer
 - Runner
