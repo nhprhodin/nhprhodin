@@ -11,6 +11,9 @@ Generalist who enjoys working on challenging projects with smart people in agile
 - Pub quizzer
 - Runner
 
+### CV
+For extended resume, refer to linked [Curriculum Vitae](cv.md).
+
 <!---
 nhprhodin/nhprhodin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
