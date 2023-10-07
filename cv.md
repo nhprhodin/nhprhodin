@@ -16,29 +16,67 @@ technical work with data of varied nature and quality.
 I am classically schooled in model development, image analysis and applied statistics, presently focusing on curation, 
 enrichment and analysis of structured data.
 
-### Key words
-- Investigations and prestudies
+### Keywords
+- Investigations and pre-studies
 - Statistical modelling
 - Technical leadership
 
 ### Experience highlights
-- Construction of a medallion architecture based data platform for standardization and automation of data collection; 
+- Contributing to a medallion architecture based data platform for standardization and automation of data collection; 
 and cleaning, curation and enrichment of sensor data for analytics applications.
-
+- Implemented decision models for economic- and carbon footprint improved energy imports, 
+resulting in a tentative 15% reduction of costs when accounting for a building's response to a temporally varying 
+load-function.
+- Integrated classical algorithms into NN-based data streaming services to enable real-time object tracking 
+and avoid image queue buildup.
 
 
 ## Areas of expertise
 
 ---
 
-### Industries
-### Environments
-### Languages and frameworks
-### AI, ML and Stats
+### Domains
+- Astrophysics
+- Automotive
+- Maritime
+- Process Industry
+- Property Technology (Prop. Tech.)
 
-## Misc.
+### Environments
+- Atlassian - {Confluence, JIRA}
+- Azure DevOps
+- Databricks
+- Github
+- Gitlab
+
+### Languages and frameworks
+- Docker
+- InfluxDB
+- OpenCV
+- PySpark
+- Python
+- SQL
+
+### Methods of Analysis
+- Exploratory data analysis
+- First principle- and probabilistic modelling
+- Hypothesis testing
+- Time series analysis
+
+## Other
 
 ---
+
+### Misc.
+- Cambridge Certificate in Advanced English
+- Driver's License (B)
+- Sponsor of Child Fund Organisation since 2016
+
+### Languages
+- Danish: Limited working proficiency
+- English: Full professional proficiency
+- French: Limited working proficiency
+- Swedish: Native proficiency
 
 ## Professional experiences
 
@@ -47,3 +85,9 @@ and cleaning, curation and enrichment of sensor data for analytics applications.
 ## Academic qualifications
 
 ---
+
+**2015 Q3 - 2019 Q3** Ph.D. in Observational Astrophysics, Copenhagen University, Denmark
+
+**2013 Q3 - 2015 Q3** M.Sc. in Astronomy & Astrophysics, Lund University, Sweden
+
+**2009 Q3 - 2013 Q3** B.Sc. in Physics, Lund University, Sweden
